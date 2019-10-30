@@ -9,7 +9,7 @@ int main()
     int id;
     string data;
     while(opc != -1){
-        cout<<"1.-Is empty?"<<endl;
+        cout<<"1.-Is empty??"<<endl;
         cout<<"2.-Push"<<endl;
         cout<<"3.-Pop"<<endl;
         cout<<"4.-Show"<<endl;
